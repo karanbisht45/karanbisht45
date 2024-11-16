@@ -25,6 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&locale=en&theme=react" alt="karanbisht45" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karanbisht45&theme=react" alt="karanbisht45" /></p>
-
 
