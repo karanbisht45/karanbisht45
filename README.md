@@ -9,7 +9,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=karanbisht45&label=Profile%20views&color=0e75b6&style=flat" alt="karanbisht45" /> 
   <img src="https://img.shields.io/github/followers/karanbisht45?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-green" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Creativity-Innovation-purple" alt="Creativity and Innovation" />
 </p>
 
 ---
