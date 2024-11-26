@@ -69,7 +69,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanbisht45&show_icons=true&locale=en&layout=compact&theme=react" alt="karanbisht45" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanbisht45&show_icons=true&locale=en&layout=compact&theme=react" alt="karanbisht45" />
 </p>
 
 <p>&nbsp;
