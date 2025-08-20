@@ -3,23 +3,23 @@
 <h1 align="center">Hi 👋, I'm Karan Bisht</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karanbisht45&label=Profile%20views&color=0e75b6&style=flat" alt="karanbisht45" />
-  <img src="https://img.shields.io/github/followers/karanbisht45?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-green" alt="Open Source" />
-</p>
-
 ---
 
-### 🌱 About Me
-- 🔭 Currently working on **Web Development and DSA Projects**
-- 🌱 Learning **DSA, Front-End Development, and Python**
-- ⚡ Fun fact: **I am good at sports and love exploring tech!**
-- 📫 How to reach me: **[kannunikki95@gmail.com](mailto:kannunikki95@gmail.com)**
+<!-- About Me and Photo Side by Side -->
+<table>
+<tr>
+<td width="50%">
+  <h3>🌱 About Me</h3>
+  - 🔭 Currently working on **Web Development and DSA Projects**  
+  - 🌱 Learning **DSA, Front-End Development, and Python**  
+  - ⚡ Fun fact: **I am good at sports and love exploring tech!**  
+  - 📫 How to reach me: **[kannunikki95@gmail.com](mailto:kannunikki95@gmail.com)**  
+</td>
+<td width="50%">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="250"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,14 +52,17 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
+<!-- GitHub Stats side by side -->
+<table>
+<tr>
+<td width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
-</p>
-
-<p align="left">
+</td>
+<td width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanbisht45&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
