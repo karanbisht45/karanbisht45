@@ -8,18 +8,29 @@
 <!-- About Me and Photo Side by Side -->
 <table>
 <tr>
-<td width="50%">
-  <h3>🌱 About Me</h3>
-  - 🔭 Currently working on **Web Development and DSA Projects**  
-  - 🌱 Learning **DSA, Front-End Development, and Python**  
-  - ⚡ Fun fact: **I am good at sports and love exploring tech!**  
-  - 📫 How to reach me: **[kannunikki95@gmail.com](mailto:kannunikki95@gmail.com)**  
+<td width="55%" valign="top">
+  <h2>🌱 About Me</h2>
+  <p>
+    🔭 Currently working on <b>Web Development and DSA Projects</b><br>
+    🌱 Learning <b>DSA, Front-End Development, and Python</b><br>
+    ⚡ Fun fact: <b>I am good at sports and love exploring tech!</b><br>
+    📫 Reach me: <a href="mailto:kannunikki95@gmail.com">kannunikki95@gmail.com</a>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/DSA-Competitive-blue?style=for-the-badge&logo=leetcode" alt="DSA">
+    <img src="https://img.shields.io/badge/Frontend-HTML_CSS_JS-orange?style=for-the-badge&logo=html5" alt="Frontend">
+    <img src="https://img.shields.io/badge/Python-Pandas-FEDC?style=for-the-badge&logo=python" alt="Python">
+  </p>
 </td>
-<td width="50%">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="250"/>
+<td width="45%" valign="middle" align="center">
+  <div style="border-radius:15px; overflow:hidden; border:3px solid #0077B5; display:inline-block;">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="250" />
+  </div>
 </td>
 </tr>
 </table>
+
 
 ---
 
