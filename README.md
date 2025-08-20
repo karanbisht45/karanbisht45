@@ -16,11 +16,18 @@
     ⚡ Fun fact: <b>I am good at sports and love exploring tech!</b><br>
     📫 Reach me: <a href="mailto:kannunikki95@gmail.com">kannunikki95@gmail.com</a>
   </p>
-  
+
+  <h3>🌐 Connect with Me</h3>
   <p>
-    <img src="https://img.shields.io/badge/DSA-Competitive-blue?style=for-the-badge&logo=leetcode" alt="DSA">
-    <img src="https://img.shields.io/badge/Frontend-HTML_CSS_JS-orange?style=for-the-badge&logo=html5" alt="Frontend">
-    <img src="https://img.shields.io/badge/Python-Pandas-FEDC?style=for-the-badge&logo=python" alt="Python">
+    <a href="https://linkedin.com/in/karanbisht02" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/k.karan__45" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+    </a>
+    <a href="mailto:kannunikki95@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+    </a>
   </p>
 </td>
 <td width="45%" valign="middle" align="center">
@@ -30,6 +37,7 @@
 </td>
 </tr>
 </table>
+
 
 
 ---
