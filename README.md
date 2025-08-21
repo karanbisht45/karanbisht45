@@ -11,7 +11,7 @@
 <td width="55%" valign="top">
   <h2>🌱 About Me</h2>
   <p>
-    🔭 Currently working on <b>Web Development and DSA Projects</b><br>
+    🔭 Currently working on <b>Web Development and DSA </b><br>
     🌱 Learning <b>DSA, Front-End Development, and Python</b><br>
     ⚡ Fun fact: <b>I am good at sports and love exploring tech!</b><br>
     📫 Reach me: <a href="mailto:kannunikki95@gmail.com">kannunikki95@gmail.com</a>
