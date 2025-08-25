@@ -28,6 +28,9 @@
     <a href="mailto:kannunikki95@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
     </a>
+    <a href="https://leetcode.com/u/karanbisht45/" target="_blank">
+     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
+  </a>
   </p>
 </td>
 <td width="45%" valign="middle" align="center">
