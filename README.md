@@ -9,6 +9,10 @@
 <table>
 <tr>
 <td width="55%" valign="top">
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=karanbisht45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
   <h2>🌱 About Me</h2>
   <p>
     🔭 Currently working on <b>Web Development and DSA </b><br>
