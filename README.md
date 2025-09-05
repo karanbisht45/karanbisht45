@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Karan Bisht</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karanbisht45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -13,7 +10,9 @@
 <tr>
 <td width="55%" valign="top">
 
-  <h2>🌱 About Me</h2>
+  <h2>🌱 About Me
+  <img align="right" src="https://komarev.com/ghpvc/?username=karanbisht45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </h2>
   <p>
     🔭 Currently working on <b>Web Development and DSA </b><br>
     🌱 Learning <b>DSA, Front-End Development, and Python</b><br>
