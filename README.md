@@ -1,6 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
-<h1 align="center">Hi 👋, I'm Karan Bisht</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Karan Bisht
+</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 ---
