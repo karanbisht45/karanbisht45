@@ -78,9 +78,10 @@
 ---
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="60">
   Thank You for Visiting!
 </h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
