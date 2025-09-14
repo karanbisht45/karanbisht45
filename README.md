@@ -77,24 +77,7 @@
 
 ---
 
-<h3 align="center">
-  <svg width="60" height="120" viewBox="0 0 60 120" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @keyframes launch {
-        0% { transform: translateY(80px); opacity: 1; }
-        100% { transform: translateY(-100px); opacity: 0; }
-      }
-      .rocket {
-        animation: launch 3s linear infinite;
-      }
-    </style>
-    <g class="rocket">
-      <text x="10" y="60" font-size="30">🚀</text>
-    </g>
-  </svg>
-  <br>
-  Thank You for Visiting!
-</h3>
+<h3 align="center">🚀 Thank You for Visiting!</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
