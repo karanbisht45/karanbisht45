@@ -78,9 +78,9 @@
 ---
 
 <h3 align="center">
-  🚀 Thank You for Visiting! <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/rocket.gif" width="40">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/rocket.gif" width="40">
+  Thank You for Visiting!
 </h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
