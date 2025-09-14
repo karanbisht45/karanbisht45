@@ -78,7 +78,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/rocket.gif" width="40">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40">
   Thank You for Visiting!
 </h3>
 <p align="center">
