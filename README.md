@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="150" alt="Neon Rocket">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="Flying Rocket">
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
