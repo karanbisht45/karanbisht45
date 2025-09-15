@@ -77,8 +77,9 @@
 
 ---
 
-<h3 align="center">🚀 Thank You for Visiting!</h3>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="150" alt="Neon Rocket">
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
