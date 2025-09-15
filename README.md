@@ -78,8 +78,9 @@
 ---
 
 <h1 align="center">
-  Thank you for visiting <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="40">
+  Thank you for visiting 🚀
 </h1>
+
 
 
 
