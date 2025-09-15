@@ -78,5 +78,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">Thank you ! for visiting 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  
+  <b><span style="font-size:22px; color:#ff4d6d;">✨ Thank you for visiting 🚀✨</span></b>
 </p>
+
