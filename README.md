@@ -78,7 +78,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  
-  <b><span style="font-size:22px; color:#ff4d6d;">✨ Thank you for visiting 🚀✨</span></b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" style="vertical-align: middle;"> 
+  <b>Thank you for visiting 🚀✨</b>
 </p>
+
 
