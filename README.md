@@ -77,9 +77,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" style="vertical-align: middle;"> 
-  <b>Thank you for visiting 🚀✨</b>
-</p>
+<h1 align="center">
+  Thank you for visiting <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="40">
+</h1>
+
 
 
