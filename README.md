@@ -65,14 +65,18 @@
 
 <!-- GitHub Stats side by side -->
 <table>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&locale=en&theme=react&cache_seconds=1800" alt="GitHub Stats" />
-</td>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&theme=react&hide_border=true" 
+        alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" 
+        alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 ---
