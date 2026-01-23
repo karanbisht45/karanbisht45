@@ -65,8 +65,8 @@
 
 <!-- GitHub Stats container -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&theme=react" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&theme=react" width="49%" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=tokyonight" width="49%" height="190" />
 </div>
 
 <!-- Separate container -->
