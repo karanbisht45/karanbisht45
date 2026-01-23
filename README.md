@@ -63,16 +63,19 @@
 
 ---
 
-<!-- GitHub Stats side by side -->
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&theme=react" height="180"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=tokyonight" height="180"/>
-</p>
----
+<!-- GitHub Stats container -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&theme=react" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=tokyonight" width="49%" />
+</div>
+
+<!-- Separate container -->
+<br clear="both"/>
 
 <h1 align="center">
   Thank you for visiting 🚀
 </h1>
+
 
 
 
