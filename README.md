@@ -65,11 +65,11 @@
 
 <!-- GitHub Stats side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&theme=react&cache_seconds=86400" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=karanbisht45&show_icons=true&theme=react&cache_seconds=86400"
+       height="180"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=tokyonight"
+       height="180"/>
 </p>
 
 ---
