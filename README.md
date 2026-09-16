@@ -66,10 +66,7 @@
 ---
 
 <!-- GitHub Stats container -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=react)
 
 <!-- Separate container -->
 <br clear="both"/>
