@@ -66,6 +66,8 @@
 ---
 
 <!-- GitHub Stats container -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanbisht45&show_icons=true&locale=en&layout=compact" alt="karanbisht45" /></p>
+
 
 
 <!-- Separate container -->
