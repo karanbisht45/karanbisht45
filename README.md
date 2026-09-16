@@ -64,13 +64,7 @@
 ---
 
 <!-- GitHub Stats container -->
-<div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karanbisht45&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
 
 <!-- Separate container -->
 <br clear="both"/>
