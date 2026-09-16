@@ -66,7 +66,6 @@
 ---
 
 <!-- GitHub Stats container -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanbisht45&layout=compact&theme=react)
 
 <!-- Separate container -->
 <br clear="both"/>
